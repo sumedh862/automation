@@ -9,6 +9,9 @@ public class Demo2 {
 		
 		int c= a+b;
 		System.out.println(c);
+		
+		
+		System.out.println("world");
 
 	}
 
